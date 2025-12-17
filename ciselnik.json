@@ -1,12 +1,19 @@
-[
-  { "code": "1", "name": "konateľ spoločnosti s ručením obmedzeným" },
-  { "code": "2", "name": "riaditeľ štátneho podniku" },
-  { "code": "3", "name": "spoločník verejnej obchodnej spoločnosti" },
-  { "code": "4", "name": "člen predstavenstva akciovej spoločnosti" },
-  { "code": "5", "name": "predseda, člen predstavenstva družstva" },
-  { "code": "6", "name": "komplementár komanditnej spoločnosti" },
-  { "code": "7", "name": "starosta obce" },
-  { "code": "8", "name": "menovaný alebo volený štatutárny zástupca rozpočtovej a príspevkovej organizácie, združenia, politickej strany, hnutia, verejnoprávnej inštitúcie" },
-  { "code": "9", "name": "správca nadácie" },
-  { "code": "10", "name": "iný" }
-]
+(
+{
+  "sEcho": "",
+  "iTotalRecords": "10",
+  "iTotalDisplayRecords": "10",
+  "aaData": [
+    ["1", "konateľ spoločnosti s ručením obmedzeným", "", ""],
+    ["2", "riaditeľ štátneho podniku", "", ""],
+    ["3", "spoločník verejnej obchodnej spoločnosti", "", ""],
+    ["4", "člen predstavenstva akciovej spoločnosti", "", ""],
+    ["5", "predseda, člen predstavenstva družstva", "", ""],
+    ["6", "komplementár komanditnej spoločnosti", "", ""],
+    ["7", "starosta obce", "", ""],
+    ["8", "menovaný alebo volený štatutárny zástupca rozpočtovej a príspevkovej organizácie, združenia, politickej strany, hnutia, verejnoprávnej inštitúcie", "", ""],
+    ["9", "správca nadácie", "", ""],
+    ["10", "iný", "", ""]
+  ]
+}
+);
