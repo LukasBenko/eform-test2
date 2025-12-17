@@ -1,0 +1,12 @@
+[
+  { "code": "1", "name": "konateľ spoločnosti s ručením obmedzeným" },
+  { "code": "2", "name": "riaditeľ štátneho podniku" },
+  { "code": "3", "name": "spoločník verejnej obchodnej spoločnosti" },
+  { "code": "4", "name": "člen predstavenstva akciovej spoločnosti" },
+  { "code": "5", "name": "predseda, člen predstavenstva družstva" },
+  { "code": "6", "name": "komplementár komanditnej spoločnosti" },
+  { "code": "7", "name": "starosta obce" },
+  { "code": "8", "name": "menovaný alebo volený štatutárny zástupca rozpočtovej a príspevkovej organizácie, združenia, politickej strany, hnutia, verejnoprávnej inštitúcie" },
+  { "code": "9", "name": "správca nadácie" },
+  { "code": "10", "name": "iný" }
+]
